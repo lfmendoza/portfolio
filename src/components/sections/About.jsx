@@ -27,7 +27,7 @@ const About = () => {
       icon: <FaUsers className="text-3xl text-green-600" />,
       title: "Liderazgo Técnico & Mentoring",
       description:
-        "8+ años liderando equipos multifuncionales y mentoring desarrolladores en mejores prácticas y arquitecturas escalables",
+        "9+ años liderando equipos multifuncionales y mentoring desarrolladores en mejores prácticas y arquitecturas escalables",
     },
     {
       icon: <FaRocket className="text-3xl text-purple-600" />,
@@ -51,7 +51,7 @@ const About = () => {
             Sobre Mí
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Principal Software Engineer con 8+ años de experiencia liderando
+            Principal Software Engineer con 9+ años de experiencia liderando
             transformaciones digitales, arquitecturas de software y equipos de
             alto rendimiento en múltiples industrias.
           </p>

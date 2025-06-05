@@ -4,7 +4,7 @@ export const experience = [
     company: "Hatchworks AI",
     period: "Enero 2023 - Presente",
     description:
-      "Líder técnico senior responsable del desarrollo de múltiples aplicaciones de software con 8+ años de experiencia profesional. Especializado en arquitectura de software, diseño y optimización de sistemas distribuidos.",
+      "Líder técnico senior responsable del desarrollo de múltiples aplicaciones de software con 9+ años de experiencia profesional. Especializado en arquitectura de software, diseño y optimización de sistemas distribuidos.",
     achievements: [
       "Arquitectura y desarrollo de plataforma de disaster recovery para millones de solicitudes concurrentes",
       "Liderazgo de equipos multifuncionales y mantenimiento de productos críticos",

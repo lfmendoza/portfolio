@@ -111,23 +111,23 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 1.0 }}
           >
-            <div className="text-center">
+            <div className="flex-none w-[125px] text-center">
               <div className="text-2xl font-bold text-blue-600 dark:text-blue-400">
-                8+
+                9+
               </div>
               <div className="text-sm text-gray-600 dark:text-gray-400">
                 Años de Experiencia
               </div>
             </div>
-            <div className="text-center">
+            <div className="flex-none w-[125px] text-center">
               <div className="text-2xl font-bold text-green-600 dark:text-green-400">
-                Senior
+                Principal
               </div>
               <div className="text-sm text-gray-600 dark:text-gray-400">
                 Tech Leadership
               </div>
             </div>
-            <div className="text-center">
+            <div className="flex-none w-[125px] text-center">
               <div className="text-2xl font-bold text-purple-600 dark:text-purple-400">
                 5+
               </div>
@@ -150,7 +150,12 @@ const Hero = () => {
               <FaEnvelope className="mr-2" />
               Contactar
             </Button>
-            <Button variant="secondary" href={personal.resumeUrl} size="lg">
+            <Button
+              variant="secondary"
+              href={personal.resumeUrl}
+              target="_blank"
+              size="lg"
+            >
               <FaDownload className="mr-2" />
               Descargar CV
             </Button>
@@ -195,7 +200,6 @@ const Hero = () => {
           </Div>
         </Div>
 
-        {/* Animated scroll indicator */}
         <Div
           className="absolute bottom-8 left-1/2 transform -translate-x-1/2"
           animate={{ y: [0, 10, 0] }}
