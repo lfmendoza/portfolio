@@ -6,7 +6,7 @@ export const personal = {
   description:
     "Principal Software Engineer con 9+ años de experiencia en arquitectura de software y algoritmos complejos. Especialista en sistemas distribuidos que manejan millones de transacciones concurrentes, con expertise en análisis de complejidad algorítmica y optimización de performance. Creador de herramientas educativas innovadoras para la enseñanza de algoritmos y estructuras de datos.",
   email: "lfmendoza.alvarez@gmail.com",
-  phone: "+502 1234-5678",
+  phone: "+502 5767-9815",
   location: "Guatemala City, Guatemala",
   profileImage: "/images/profile.jpg",
   resumeUrl: "/docs/cv-fernando-mendoza.pdf",

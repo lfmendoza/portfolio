@@ -2,7 +2,7 @@ export const experience = [
   {
     title: "Principal Software Engineer & Tech Lead",
     company: "Hatchworks AI",
-    period: "Enero 2023 - Presente",
+    period: "Junio 2025 - Presente",
     description:
       "Líder técnico senior responsable del desarrollo de múltiples aplicaciones de software con 9+ años de experiencia profesional. Especializado en arquitectura de software, diseño y optimización de sistemas distribuidos.",
     achievements: [
@@ -14,8 +14,8 @@ export const experience = [
   },
   {
     title: "Senior Full Stack Development Engineer",
-    company: "MightyID (Hatchworks AI)",
-    period: "Enero 2024 - Presente",
+    company: "MightyID",
+    period: "Enero 2024 - Junio 2025",
     description:
       "Diseño e implementación de plataforma de recuperación ante desastres de alto rendimiento para sistemas de gestión de identidad y acceso en la nube (Okta, Microsoft Entra, Auth0, PingOne).",
     achievements: [
