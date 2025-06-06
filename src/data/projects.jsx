@@ -13,7 +13,7 @@ export const projects = [
       "Tailwind CSS",
     ],
     image: "./images/projects/algorithms-visualizer.png",
-    demoUrl: "https://algorithms-visualizer-fm.vercel.app",
+    demoUrl: "https://algorithms-visualizer-lovat.vercel.app",
     githubUrl: "https://github.com/lfmendoza/algorithms-visualizer",
     featured: true,
     highlights: [
@@ -39,7 +39,7 @@ export const projects = [
       "Redis",
     ],
     image: "./images/projects/leetcode-clone.png",
-    demoUrl: "https://codemaster-platform.vercel.app",
+    demoUrl: "https://leetcode-clone-beta.vercel.app",
     githubUrl: "https://github.com/lfmendoza/leetcode-clone",
     featured: true,
     highlights: [
@@ -65,8 +65,8 @@ export const projects = [
       "Redis",
       "PostgreSQL",
     ],
-    image: "./images/projects/complexity-analyzer.jpg",
-    demoUrl: "https://complexity-analyzer.vercel.app",
+    image: "./images/projects/complexity-analyzer.png",
+    demoUrl: "https://complexity-analyzer-weld.vercel.app",
     githubUrl: "https://github.com/lfmendoza/complexity-analyzer",
     featured: true,
     highlights: [
